@@ -55,6 +55,11 @@ footer
 	background: #bb0000;
 }
 
+.media-icons
+{
+	display: flex;
+}
+
 .top
 {
 	display: flex;
